@@ -6,9 +6,9 @@
 
     <!-- 项目信息 begin -->
     <groupId>com.microservice</groupId>
-    <artifactId>myspringboot</artifactId>
+    <artifactId>springboot-jpa</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>myspringboot</name>
+    <name>springboot-jpa</name>
     <url>http://maven.apache.org</url>
     <!-- 项目信息end -->
     <!-- 属性配置 begin -->
@@ -162,24 +162,5 @@
         </dependency>
 
     </dependencies>
-
-
-<!--    <build>-->
-<!--        <plugins>-->
-<!--            <plugin>-->
-<!--                <artifactId>maven-compiler-plugin</artifactId>-->
-<!--                <configuration>-->
-<!--                    <source>11</source>-->
-<!--                    <target>11</target>-->
-<!--                    <encoding>UTF-8</encoding>-->
-<!--                </configuration>-->
-<!--            </plugin>-->
-<!--        </plugins>-->
-<!--    </build>-->
-
-
-
-
-
 
 </project>
